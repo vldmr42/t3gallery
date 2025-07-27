@@ -6,7 +6,7 @@
 - [x] Scafold basic ui with mock data
 - [x] Actualy set up a db (w/ Vercel postgres)
 - [x] Attach db to UI
-- [ ] Add authentication (w/ Clerk)
+- [x] Add authentication (w/ Clerk)
 - [ ] Add Image upload
 - [ ] Error management (w/ Sentry)
 - [ ] Routing/image page (parallel route)
