@@ -8,6 +8,7 @@
 - [x] Attach db to UI
 - [x] Add authentication (w/ Clerk)
 - [ ] Add Image upload
+- [ ] Server components functionality
 - [ ] Error management (w/ Sentry)
 - [ ] Routing/image page (parallel route)
 - [ ] Delete button (server actions)
