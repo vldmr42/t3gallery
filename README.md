@@ -10,7 +10,7 @@
 - [x] Add Image upload
 - [x] Server components functionality 'taint'
 - [x] Use Next/Image component
-- [ ] Error management (w/ Sentry)
+- ~~[x] Error management (w/ Sentry)~~ - 403 Forbidden
 - [ ] Routing/image page (parallel route)
 - [ ] Delete button (server actions)
 - [ ] Analytics (w/ Posthog)
