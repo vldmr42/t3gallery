@@ -13,7 +13,7 @@
 - ~~[x] Error management (w/ Sentry)~~ - 403 Forbidden
 - [x] Routing/image page (parallel route)
 - [ ] Delete button (server actions)
-- [ ] Analytics (w/ Posthog)
+- ~~[x] Analytics (w/ Posthog)~~ - not available in your country
 - [ ] Ratelimiting (w/ Upstash)
 
 # How do I deploy this?
